@@ -1,5 +1,6 @@
 <?php
 
-echo"Hello world";
-
+echo"Hello kalb world";
+echo"Hello mohamad world";
+echo"Hello";
 ?>
